@@ -1,1 +1,4 @@
-<div>hola bebe</div>
+<div>
+@livewire('post-view')
+
+</div>
